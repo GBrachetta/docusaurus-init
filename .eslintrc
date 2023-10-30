@@ -1,0 +1,7 @@
+{
+  "extends": "@gbrachetta/eslint-config",
+  "rules": {
+    "import/no-unresolved": 0,
+    "sort/imports": 0
+  }
+}
